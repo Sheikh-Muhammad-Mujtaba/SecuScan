@@ -1,0 +1,14 @@
+[project]
+name = "secuscan"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pdfkit>=1.0.0",
+    "python-dotenv>=1.0.1",
+    "reportlab>=4.3.1",
+    "requests>=2.32.3",
+    "shodan>=1.31.0",
+    "streamlit>=1.42.2",
+]
